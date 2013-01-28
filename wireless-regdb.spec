@@ -1,11 +1,11 @@
 Summary:	Wireless regulatory database
 Name:		wireless-regdb
-Version:	2011.04.28
+Version:	2013.01.11
 Release:	1
 License:	ISC
 Group:		Networking
 Source0:	http://wireless.kernel.org/download/wireless-regdb/%{name}-%{version}.tar.bz2
-# Source0-md5:	16b7fabd4d7761ccf206702a3f18cce9
+# Source0-md5:	f137585abd5e07454932ea555b826149
 URL:		http://wireless.kernel.org/en/developers/Regulatory
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
